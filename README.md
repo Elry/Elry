@@ -1,7 +1,7 @@
 # Rafael Garcia repos
 
-![Elry's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elry&theme=tokyonight&hide=html,css&langs_count=8&layout=compact)
 ![Elry's github stats](https://github-readme-stats.vercel.app/api?username=Elry&show_icons=true&theme=tokyonight&count_private=true&hide=contribs)
+![Elry's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elry&theme=tokyonight&hide=html,css&langs_count=12&layout=compact)
 
 ## Tools
 * ![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker)
