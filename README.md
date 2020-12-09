@@ -14,18 +14,30 @@
 * ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=jenkins&logoColor=black)
 * ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 * ![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white)
+* ![Dart](https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart)
+* ![Flutter](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter)
 
 ## Contact
 [![Outlook](https://img.shields.io/badge/outlook-blue?style=for-the-badge&logo=outlook)](rafaelgarcialima@outlook.com)
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-garcia-0a8368ba/)
 
 ### Current day job tech
-- DB (sql server);
+- TDD;
+- REST;
 - back-end(nodejs);
-- pwa(ionic/capacitor);
-- CI/CD (azure devops);
-- front-end (react, typescript);
-- Version control (git, azure devops).
+- DB (sql server, mongodb);
+- CI/CD (azure devops, jenkins);
+- front-end (react, typescript, ES6);
+- Version control (git, azure devops);
+- mobile(ionic/capacitor (pwa, ios and android)).
+
+### RoseMary Tech stack
+- TDD;
+- Mongo;
+- REST;
+- Laravel;
+- Mysql/Mongo;
+- Flutter/dart.
 
 ### Current projects
 - AI, ML;
@@ -34,7 +46,5 @@
 - NoSQL, messaging and Queues in laravel projects
 
 ### Learning
-![Dart](https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart)
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
-![Flutter](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
