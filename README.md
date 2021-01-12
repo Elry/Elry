@@ -35,7 +35,7 @@
 - TDD;
 - Mongo;
 - REST;
-- Laravel;
+- Laravel/nodejs;
 - Mysql/Mongo;
 - Flutter/dart.
 
