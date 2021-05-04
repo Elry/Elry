@@ -8,14 +8,11 @@
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-garcia-0a8368ba/)
 
 ### Current day job tech
-- TDD;
-- REST;
-- DB: sql server, mongodb;
-- back-end: nodejs, laravel;
-- CI/CD: azure devops, jenkins;
-- front-end: react, typescript;
-- Versioning: git, azure devops;
-- mobile: ionic/flutter (ios/android/pwa);
+- DB: mongodb;
+- Versioning: git;
+- back-end: nodejs, redis;
+- CI/CD: travis/github, docker, cirrus, k8s;
+- front-end: react, typescript, redux, sagas, jest, ducks;
 
 ### RoseMary Tech stack
 - TDD;
